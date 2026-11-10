@@ -94,7 +94,7 @@ Load it from **SELECT**. It opens with the NoiZ Temple logo, which derezzes into
 
 ![grid layout](doc/grid.png)
 
-noiz virus uses a varibright 128 grid stood up on its end, 8 across and 16 down, with the USB at the top right. If yours comes up the wrong way round, set **grid orientation** in params to *portrait flipped*.
+noiz virus uses a varibright 128 grid in portrait mode, 8 across and 16 down, with the USB at the top right. If yours comes up the wrong way round, set **grid orientation** in params to *portrait flipped*.
 
 **SHIFT** works two ways: hold it, or tap it once to arm it for your next press (it blinks while armed).
 
